@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Lee 👋
 
-<!--
-**Leew309/Leew309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science  
+💻 Backend & systems development  
 
-Here are some ideas to get you started:
+### Tech Stack
+- Python, C
+- Flask, SQL
+- PyTorch
+- Data & APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected Projects
+- CalcMaster – Math quiz system
+- Epileptic Seizure Detection – CNN (PyTorch)
+
